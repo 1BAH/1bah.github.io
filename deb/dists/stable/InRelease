@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA384
+
 Architectures: all
 Codename: stable
 Components: main
@@ -22,3 +25,11 @@ SHA512:
  5b66f372e9aeebaa021bf901c0210159fb5451d14e7affe3706dd0b085d46c2a243fc18f8dbe15d7808f31a1971759f28bdcad69051a000d9a0a22ba25bef16d              173 Release
  f996dd8914d9274f21ad88c50f61de5ba2485c12eb3b829ed26682bca70abd3764fc1ca6ffe00f160a03221c4c071f148aa26ff140787479185b341a6e8bef5f              553 main/binary-all/Packages
  225f772b92a896a594185a37917d625bbb8344deb33c0d3235ea50bc983ac72fa1130c508610aa1c13df1a3f38c3ba43b02ef096b9eddfa994b5672346d1cb53              424 main/binary-all/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iJUEARMJAB0WIQTi4VTqkltukY7WqsRD+K3dMep+mQUCanKliQAKCRBD+K3dMep+
+mVkZAX4uhxfz3lzy1I8FX9bDfcWCaVigyUXPsKRzcowxl5KTuWsUlXW8rTLTe3R6
+JLIWX/cBf3J+pV83h+a9uwuNjFwfaIatSAB+28rogGigPBQZQlTsJnF6rPpMerPf
+N2am4luh9A==
+=z6wx
+-----END PGP SIGNATURE-----
