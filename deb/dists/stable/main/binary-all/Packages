@@ -3,11 +3,24 @@ Architecture: all
 Version: 2026.0+2
 Maintainer: Iwan Kalinin <koefic.cien@gmail.com>
 Depends: bash (>= 5.0.0), curl
-Filename: pool/main/fenrir-1bah-2026.0+2_all.deb
+Filename: /home/nbah/1bah.github.io/deb/pool/main/fenrir-1bah-2026.0+2_all.deb
 Size: 26340
 MD5sum: 692af142897f8dcd7c8c9248903a0c64
 SHA1: d954f08ddb60c91cafb102421d8abe10e99c923c
 SHA256: 3e079ab4306ec001ff4d680b26ca72c86c3c1074ec23e3b6f4553e3c1ddbaa6f
 SHA512: 06f2e1b9b0c03e609d60db7b904cb541e0791e7d956450cd10449c127b2ab86eb35476205541fc3ec991f4fa50d6d48a4cbbac911461ced924a369445e2dca5e
+Description: A lightweight general purpose testing tool
+
+Package: fenrir-1bah
+Architecture: all
+Version: 2026.0+3
+Maintainer: Iwan Kalinin <koefic.cien@gmail.com>
+Depends: bash (>= 5.0.0), curl
+Filename: /home/nbah/1bah.github.io/deb/pool/main/fenrir-1bah-2026.0+3_all.deb
+Size: 25888
+MD5sum: ff4c5bb8ac647865394ff0279a20245c
+SHA1: 3a4684f6463ef40944b78120b6b261187362d937
+SHA256: e1b049dadb8fc5a586a3785220a1baab6ef163d28edd6d0a47869827c99b886d
+SHA512: f9f3eb61f4280201a209685a6dbb43f2bab6e5eeaad6cc166b453e538e1ae340201698fdb5bc49ba53d442f452842441ebbe0649a2715cff139945898dd7dc97
 Description: A lightweight general purpose testing tool
 
