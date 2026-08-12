@@ -31,9 +31,9 @@ Maintainer: Iwan Kalinin <koefic.cien@gmail.com>
 Depends: bash (>= 5.0.0), curl
 Filename: /home/nbah/1bah.github.io/deb/pool/main/fenrir-1bah-2026.1_all.deb
 Size: 26044
-MD5sum: 999a60e106e96c80a0c2b30cbd40719c
-SHA1: c1e269235caf7aab1d31e2d7144b306caa78f395
-SHA256: 86d2e45fc692ad0c8260c59e0971622541c3a4aeb827435c33574bd1d5cad049
-SHA512: 67e9a1611114add08e79b0b18bb69e1ee7d5750b2370cf72f8bb44fad440dc6ba235ef3843864763d5ce70dbafe3a0c84d06908df3a947cc16267b8fbf4806b7
+MD5sum: 27f0d1c3b51207b17cdad4ae892fbdb9
+SHA1: f0b1a1e52372f456f122e5a0eb136018dd9bc87d
+SHA256: 266ba5d80f1f3caac4b2cfe4f8aa07fee5b259898a8594c1e97af03ac485b1d0
+SHA512: ac2ab7f5121514008e22a8ce8889aaf7f4a22e9b7a753858928549ed7d41e7d4c2dc569ae10e1f0a177e268c9259bf5d9f0d3f9fa5b9fda58e8b407d7b612039
 Description: A lightweight general purpose testing tool
 
