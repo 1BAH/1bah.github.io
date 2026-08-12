@@ -4,32 +4,32 @@ Hash: SHA384
 Architectures: all
 Codename: stable
 Components: main
-Date: Wed, 12 Aug 2026 18:03:01 +0000
+Date: Wed, 12 Aug 2026 18:15:21 +0000
 Description: deb packages by 1bah
 Label: 1bah registry
 Origin: 1bah
 Suite: stable
 MD5Sum:
- c6666e20f88a08500160de05c7006344              173 Release
- 8764265295d6c9544a9237a17a487daa             1745 main/binary-all/Packages
- 517096083a7fd48fbd225c02215aa954              814 main/binary-all/Packages.gz
+ f8438e50cdf1c5ad826ae2b59937754c              173 Release
+ c2b57fa22d08f501da383a10c2278f7f             1745 main/binary-all/Packages
+ 9f1b5863d0fa844249f821f4a92d5f80              813 main/binary-all/Packages.gz
 SHA1:
- 9d0b4726454cc085fdd2edb58a22b53aa9e4abeb              173 Release
- bacfc95628edbf6c08e1ae51f510fa89997f1477             1745 main/binary-all/Packages
- 9eae93d100cda9ff8a585ab032f8aa4eb5114b1f              814 main/binary-all/Packages.gz
+ ab1033be618d7b09977a65c6ccc8830e58b23d51              173 Release
+ c8909d4610020e129ef8a041afab5873cd94ecdb             1745 main/binary-all/Packages
+ e934afcd729b85f9199fa411a846f5c5e1965755              813 main/binary-all/Packages.gz
 SHA256:
- 189f9383a628f61b23dc2537aea06eda32e382a67ec3888d65958ef5198209ee              173 Release
- e5773fb5b9eeb965d93aca203abc2f922c8ab9d1892324ae309209b790694fa3             1745 main/binary-all/Packages
- 4e50c469cf97aab38e8cb490f0a0b4447dcd48760848e992db4c811e36628f29              814 main/binary-all/Packages.gz
+ f7b39825b7e16679c15648f10565c36bbe7df69d1c14e9b8d212d18e6bb653ff              173 Release
+ 4df9e99c4dfb32f11b241f2eb4d79c370f8c275da75695622b5f994a21ddb05b             1745 main/binary-all/Packages
+ c6c9acd2015e8b30058b2217f1594cf435dc9616a5c1c8ee9fe6ad0456ede17d              813 main/binary-all/Packages.gz
 SHA512:
- a87554984c5d6efe9fb69fa01151bad07958fde79a643aca694b3b06970147cd2ce4604366b08a45ce3c2a199288b602d8bcbd4a2cfec628803bb6664a7a39a3              173 Release
- d69b46e6c1280c9752ed1b5bf2a742828ae94f90d714ee80b650ff16748e89ac5bf6031631d68481a1dc0dde3f30ed3dd9425bfeccfce28a3cf26f02be644c04             1745 main/binary-all/Packages
- 5e8507ab4118071ecb342498b21dcebb2b0ddaefd60800f3a4960eb948f1027b77e4434f11f8f56b8612c17d2eebc2e862e990e4943574b739ebe34b56d6fa1e              814 main/binary-all/Packages.gz
+ f14c1eaec01bec2f8493ec339535a07e5f11507a547b19404107fbdee03c29e074a224d74bd2b26214dc175f51411f839e0662c6ba343cb85aa99ee3db7c80eb              173 Release
+ 8e311e4161c88e7eea712e350d32a75ed7a983f1d91021d6a277c0d9f1d72c6e5ddabb6fd2b09554b339f904e7378cc2003929b491fd8ca6848728723bbb3651             1745 main/binary-all/Packages
+ fde60f0d50f5ea43a82fbfaac5299cfac55ece8fea2ca26c837cfc867aa0673bddfbee8efc8f8a9ff313143bbbf1a98cc16c0b711ac130363b2459c16fe21562              813 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iJUEARMJAB0WIQTi4VTqkltukY7WqsRD+K3dMep+mQUCany1VQAKCRBD+K3dMep+
-majnAX0aVSWSnjDA1DVXiyuUq4cB5Z5K6LNKTQeaHdXGorv1UOaRmmjvwjVLpXJj
-Exs5Q6ABf2hQM+/Zm92wwneUd14dDKgOMI7CllpWjx4kdmnrZjbhxgSkp8Sup8D3
-swNpzHp9hg==
-=sYZq
+iJUEARMJAB0WIQTi4VTqkltukY7WqsRD+K3dMep+mQUCany4OQAKCRBD+K3dMep+
+mbacAX42oSD2EgBbxO+745QsTH+dIHb7hYAoOo347aXo/6Sq4rbXODVzRqyjo6fn
+0AqoWCgBgJXbH1DoGvWVCFq3TGs/sbwfjt6ha7FJSMI6ZNrP41oEzBdLDVfWlGET
+tXj+mNaHYQ==
+=Mwyx
 -----END PGP SIGNATURE-----
