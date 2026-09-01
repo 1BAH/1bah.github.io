@@ -4,10 +4,10 @@ Version: 2026.1.2
 Maintainer: Iwan Kalinin <koefic.cien@gmail.com>
 Depends: bash (>= 5.0.0), curl
 Filename: pool/main/fenrir-1bah-2026.1.2_all.deb
-Size: 26464
-MD5sum: 583f8d1ec43607f1e6397c03d0655099
-SHA1: f24c97e4de0f8bf0da488e1a21e0b4da809b7db2
-SHA256: 23cda53722b094221b3784ce10e0c8cbbe7d12a0046f4f7df53dd24a5a6471c5
-SHA512: 35a980a25e971b7aa3785d85b1df56721e12b8ceef6bbdbfdbabe28b59856d6147dcb4e34017c5beccb8cc8ab601f7255f39329da224f92d4b5fd9243aece55f
+Size: 26468
+MD5sum: 6354f6c90ebf65fe66a0d8992e67de25
+SHA1: 3f4ec06d9361768de8c882342f1667cb71b0467e
+SHA256: 14843434b3d891abfcff5f024795ea7353232f87723b1adbe9a5b805ccd01941
+SHA512: f40fb26e3c2a8dcbec1b3b61d7e9c3b4f24e16c9937208eefd7f43ca8bce809266b9bbf1a1b79d1867b3ab9a466e75a4e4f1dc631b82c265d2c84222ed8efafa
 Description: A lightweight general purpose testing tool
 
