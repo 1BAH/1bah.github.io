@@ -1,52 +1,13 @@
 Package: fenrir-1bah
 Architecture: all
-Version: 2026.1.2
-Maintainer: Iwan Kalinin <koefic.cien@gmail.com>
-Depends: bash (>= 5.0.0), curl
-Filename: pool/main/fenrir-1bah-2026.1.2_all.deb
-Size: 26476
-MD5sum: acd76849dc2c35bf5916676a3e541e2d
-SHA1: 12fb69c6c953efc8b3b74d9f05fd592b32e03bb1
-SHA256: e52001e0309500299454a2d8513293489288bba975bce0bc5048d6c48d69dd8c
-SHA512: 604144dd700eb7b2b60da8439c10a8dd8fa04336256f25de488946f0c7997fec9dbd8dda9702045b0c2e8bfc027cef2af3dcb870be6d51a6f52d1d1acdb6ae74
-Description: A lightweight general purpose testing tool
-
-Package: fenrir-1bah
-Architecture: all
-Version: 2026.1.3
-Maintainer: Iwan Kalinin <koefic.cien@gmail.com>
-Depends: bash (>= 5.0.0), curl
-Filename: pool/main/fenrir-1bah-2026.1.3_all.deb
-Size: 26496
-MD5sum: d76973ca89321daf510d207380bff425
-SHA1: 043dae5fceb0d78aa9f67769028bbe0d6a8e4996
-SHA256: da40337e72243aaaf5397f6aeb108904a1b166ce11a7d35dc03d25886ecc5cb8
-SHA512: 9d374b47b835fc764d951b53d9a8e68bf96534ff09b2580739fb5575348a0aaa5ceac516652dd2d0cc446628766423f03ebff163f7c033ff33176ad7a04abc01
-Description: A lightweight general purpose testing tool
-
-Package: fenrir-1bah
-Architecture: all
-Version: 2026.1.4
-Maintainer: Iwan Kalinin <koefic.cien@gmail.com>
-Depends: bash (>= 5.0.0), curl
-Filename: pool/main/fenrir-1bah-2026.1.4_all.deb
-Size: 26572
-MD5sum: c6eecdf398054be80b99ad0f2213890a
-SHA1: e262c66817e2eb2c67f441dd305f5b176e218b1f
-SHA256: 17fceb98ca81f39e9f2aade567ceb52251caebd2548c2d7ff81b440531102b30
-SHA512: 167ee5fc5d53feb81b0c46a3b420dcc2b2c4d8090a49af467da082c7d9d5838bc5cf9883e60fbb2731857a6903e4314cc5a44beac5e15326aa9e0bc05dfcec26
-Description: A lightweight general purpose testing tool
-
-Package: fenrir-1bah
-Architecture: all
 Version: 2026.1.5
 Maintainer: Iwan Kalinin <koefic.cien@gmail.com>
 Depends: bash (>= 5.0.0), curl
 Filename: pool/main/fenrir-1bah-2026.1.5_all.deb
 Size: 26864
-MD5sum: 134c850dadf8827561e1585bf6df2ce7
-SHA1: 1f94339f785a3593b58142cfdb0dd4b191ed3a8d
-SHA256: 816507d14b65323b2872d01c60adf7c7ac8b5502449d2dcd7fc3a870f2ad5749
-SHA512: d803dc159664a03fc0c772cf20b70fa8bd30333031f4675f97d6c0fc9967a0c108e7f09fabb3032a3fb0dcd9e81969a34e5668e5b2f0efa71b3702c81dc134bc
+MD5sum: db7ec7fdf4a8b97d1f8edfed64735904
+SHA1: b8ceb15c89f0446fe011e57d78ebde1b7e289e6e
+SHA256: f5b5745f24248a567e8fdc7a7c0f758cf6ec1393743e41ec35020275a9c87927
+SHA512: f9d7c28c305bc20cc0ec645d343cb4aeb1d66ddcd2c98589e7ec3a8354e2d5c84637a4e2540bde42022d49178b925f0f74824f1e311744c8e255ae8a143b927b
 Description: A lightweight general purpose testing tool
 
